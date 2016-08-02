@@ -33,7 +33,7 @@ instructions: |
   [chef-solo](http://docs.opscode.com/chef_solo.html). Once the deployment is
   up, chef will not run again, so it is safe to modify configurations.
 description: |
-  ####Single Linux server - RCv3
+  #### Single Linux server - RCv3
   A single Linux server running the latest version of
   [Vesta Control Panel](https://vestacp.com/).
 
